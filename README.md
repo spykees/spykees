@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Spykees and living in Swiss
 - 👀 I’m interested in code and ML
-- 🌱 I’m currently learning C++ Python and Symfony
-- 📫 How to reach me : Here on GitHub.
+- 🌱 I’m currently learning C++ and Python
+- 📫 How to reach me : Here on Github.
